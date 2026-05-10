@@ -4,4 +4,6 @@ The shortest-smallest repo in the world. Saving GitHub's server space, one chara
 
 - **Language:** R
 - **Size:** one file (`a.R`), one character (`1`), one byte, one line
-- **Status:** Valid & executable.
+- **Status:** valid & executable.
+
+I myself don't understand why the hell am I doing this.
